@@ -7,31 +7,31 @@ c = complex(2, 3)  # Complex number
 d = "Hello"  # String   
 e = True  # Boolean
 f = None  # NoneType   
-g = [1, 2, 3]  # List
-h = (4, 5, 6)  # Tuple 
-i = {7, 8, 9}  # Set
-j = {"key": "value"}  # Dictionary
-k = bytearray(5)  # Bytearray
-l = bytes(5)  # Bytes
-m = memoryview(bytes(5))  # Memoryview
+g = [1, 2, 3]  # List is mutable data type ordered collection in Python
+h = (4, 5, 6)  # Tuple is immutable data type ordered collection in Python
+i = {7, 8, 9}  # Set is an unordered collection of unique elements
+j = {"key": "value"}  # Dictionary is a collection of key-value pairs
+k = bytearray(5)  # Bytearray is a mutable sequence of bytes used to store binary data and is mutable
+l = bytes(5)  # Bytes is an immutable sequence of bytes used to store binary data and is immutable different from bytearray as it cannot be modified after creation
+m = memoryview(bytes(5))  # Memoryview is a view of the memory of a bytes object used to access the bytes without copying them
 n = range(10)  # Range
-o = frozenset([10, 20, 30])  # Frozenset
+o = frozenset([10, 20, 30])  # Frozenset is an immutable version of a set used to store unique elements and is unordered
 # Printing the types of the variables
-print(type(a))  # <class 'int'>
-print(type(b))  # <class 'float'>
-print(type(c))  # <class 'complex'>
-print(type(d))  # <class 'str'>
-print(type(e))  # <class 'bool'>
-print(type(f))  # <class 'NoneType'>
-print(type(g))  # <class 'list'>
-print(type(h))  # <class 'tuple'>
-print(type(i))  # <class 'set'>
-print(type(j))  # <class 'dict'>
-print(type(k))  # <class 'bytearray'>
-print(type(l))  # <class 'bytes'>
-print(type(m))  # <class 'memoryview'>
-print(type(n))  # <class 'range'>
-print(type(o))  # <class 'frozenset'>
+print(a)  # <class 'int'>
+print(b)  # <class 'float'>
+print(c)  # <class 'complex'>
+print(d)  # <class 'str'>
+print(e)  # <class 'bool'>
+print(f)  # <class 'NoneType'>
+print(g)  # <class 'list'>
+print(h)  # <class 'tuple'>
+print(i)  # <class 'set'>
+print(j)  # <class 'dict'>
+print(k)  # <class 'bytearray'>
+print(l)  # <class 'bytes'>
+print(m)  # <class 'memoryview'>
+print(n)  # <class 'range'>
+print(o)  # <class 'frozenset'>
 # Demonstrating the use of type() function
 print("The type of variable 'a' is:", type(a))  # The type of variable 'a' is: <class 'int'>
 print("The type of variable 'b' is:", type(b))  # The type of variable 'b' is: <class 'float'>
