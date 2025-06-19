@@ -30,10 +30,15 @@ Python1To100/
 This section provides detailed descriptions for each Python script in the repository. Each file focuses on a specific topic or exercise, making it easy to find examples relevant to your learning goals.
 
 - **Print.py**: This script demonstrates basic `print()` functionalities in Python, including printing strings, numbers, and expressions.  
+
 - **Comments_Escape.py**: This script demonstrates various print functionalities in Python, including escape sequences, formatting, and file output with used shortcuts for comments and selections.
+
 - **variable_datatype.py**: This script demonstrates the different data types in Python, including integers, floats, complex numbers, strings, booleans, NoneType, lists, tuples, sets, dictionaries, bytearrays, bytes, memoryviews, ranges, and frozensets. 
+
 - **calculator.py**: This script demonstrates basic arithmetic operations in Python, including addition, subtraction, multiplication, division, floor division, modulus, and exponentiation.
+
 - **typeCastin.py**: This script demonstrates type casting in Python, including implicit and explicit type casting. 
+
 - **userInput.py**: This script demonstrates how to take user input in Python and perform operations on it. 
 
 
@@ -45,9 +50,3 @@ Feel free to submit pull requests or open issues for improvements or corrections
 ## License
 
 This project is licensed under the MIT License.
-    This repository contains Python scripts
-This section provides detailed descriptions for each Python script in the repository. Each file focuses on a specific topic or exercise, making it easy to find examples relevant to your learning goals.
-
-- **print.py**: Demonstrates basic usage of the `print()` function in Python.
-- **comments_escape.py**: Shows how to use comments and escape characters in Python code.
-- **variable_datatype.py**: Explains variable assignment and common data types in Python.
