@@ -9,7 +9,7 @@
 
 '''
 Author: Tanishq Tripathi
-Date: 14/10/2024
+Date: 19/06/2025
 '''
 
 print("Tanishq Tripathi \nDOB: 14/10/2000 \nAge: 24") #  Escape sequence \n is used to print in new line
