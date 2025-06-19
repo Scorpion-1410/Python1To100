@@ -10,24 +10,33 @@ Below is a list of files currently in the `main` branch:
 
 ```plaintext
 Python1To100/
-├── 01_example.py
-├── 02_example.py
-├── 03_example.py
+├── Print.py
+├── Comments_Escape.py
+├── variable_datatype.py
 ...
-├── 100_example.py
 ├── README.md
 ```
 
-> **Note:** Replace `01_example.py`, `02_example.py`, etc., with the actual filenames present in your repository.
-
 ## How to Use
 
-- Browse through the numbered Python files to explore different programming concepts.
+- Browse through the Python files to explore different programming concepts.
 - Each file is self-contained and can be run independently.
 - To run a script, use:
     ```bash
     python <filename.py>
     ```
+## Details of All Files
+
+This section provides detailed descriptions for each Python script in the repository. Each file focuses on a specific topic or exercise, making it easy to find examples relevant to your learning goals.
+
+- **Print.py**: This script demonstrates basic `print()` functionalities in Python, including printing strings, numbers, and expressions.  
+- **Comments_Escape.py**: This script demonstrates various print functionalities in Python, including escape sequences, formatting, and file output with used shortcuts for comments and selections.
+- **variable_datatype.py**: This script demonstrates the different data types in Python, including integers, floats, complex numbers, strings, booleans, NoneType, lists, tuples, sets, dictionaries, bytearrays, bytes, memoryviews, ranges, and frozensets. 
+- **calculator.py**: This script demonstrates basic arithmetic operations in Python, including addition, subtraction, multiplication, division, floor division, modulus, and exponentiation.
+- **typeCastin.py**: This script demonstrates type casting in Python, including implicit and explicit type casting. 
+- **userInput.py**: This script demonstrates how to take user input in Python and perform operations on it. 
+
+
 
 ## Contributing
 
@@ -36,3 +45,9 @@ Feel free to submit pull requests or open issues for improvements or corrections
 ## License
 
 This project is licensed under the MIT License.
+    This repository contains Python scripts
+This section provides detailed descriptions for each Python script in the repository. Each file focuses on a specific topic or exercise, making it easy to find examples relevant to your learning goals.
+
+- **print.py**: Demonstrates basic usage of the `print()` function in Python.
+- **comments_escape.py**: Shows how to use comments and escape characters in Python code.
+- **variable_datatype.py**: Explains variable assignment and common data types in Python.
