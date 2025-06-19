@@ -41,6 +41,8 @@ This section provides detailed descriptions for each Python script in the reposi
 
 - **userInput.py**: This script demonstrates how to take user input in Python and perform operations on it. 
 
+- **string.py**: This script demonstrates basic string operations in Python, including string creation, indexings, and iteration.
+
 
 
 ## Contributing
