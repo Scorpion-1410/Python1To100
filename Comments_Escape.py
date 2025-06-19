@@ -1,3 +1,9 @@
+'''
+Author: Tanishq Tripathi
+Date: 19/06/2025
+This script demonstrates various print functionalities in Python, including escape sequences, formatting, and file output with used shortcuts for comments and selections.
+'''
+
 # Multiple lines of comments are used below.
 # Alt + Down/Up Arrow is used to move the current line Down/Up.
 # Ctrl + / is used to comment/uncomment the current line.
@@ -6,11 +12,6 @@
 # Ctrl + Shift + Left/Right Arrow is used to select the current word from the cursor to the left/right. 
 # Ctrl + D is used to select the next occurrence of the current word.
 # Ctrl + Shift + K is used to delete the current line.
-
-'''
-Author: Tanishq Tripathi
-Date: 19/06/2025
-'''
 
 print("Tanishq Tripathi \nDOB: 14/10/2000 \nAge: 24") #  Escape sequence \n is used to print in new line
 print("Tanishq Tripathi \tDOB: 14/10/2000 \tAge: 24") # Escape sequence \t is used to print in tab space

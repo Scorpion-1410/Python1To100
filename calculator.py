@@ -1,3 +1,10 @@
+'''
+Author: Tanishq Tripathi
+Date: 19/06/2025
+This script demonstrates basic arithmetic operations in Python, including addition, subtraction, multiplication, division, floor division, modulus, and exponentiation. 
+'''
+
+
 print(15+6) # Addition
 print(15-6) # Subtraction
 print(15*6) # Multiplication

@@ -1,5 +1,8 @@
-# Author: Tanishq Tripathi
-# Date: 19/06/2025
+'''
+Author: Tanishq Tripathi
+Date: 19/06/2025
+This script demonstrates the different data types in Python, including integers, floats, complex numbers, strings, booleans, NoneType, lists, tuples, sets, dictionaries, bytearrays, bytes, memoryviews, ranges, and frozensets. 
+'''
 
 a = 10  # Integer
 b = 3.14  # Float
