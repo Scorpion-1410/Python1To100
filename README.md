@@ -45,7 +45,7 @@ This section provides detailed descriptions for each Python script in the reposi
 
 - **opsOnString.py**: This script demonstrates basic string operations in Python, including string slicing and indexing.
 
-- [**stringMethod.py**](https://github.com/Scorpion-1410/Python1To100/blob/main/stringMethod.py): This script demonstrates various string methods in Python, including string manipulation, formatting, and checking properties of strings.
+[stringMethod.py](https://github.com/Scorpion-1410/Python1To100/blob/main/stringMethod.py): This script demonstrates various string methods in Python, including string manipulation, formatting, and checking properties of strings.
 
 ## Contributing
 
