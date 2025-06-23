@@ -43,7 +43,9 @@ This section provides detailed descriptions for each Python script in the reposi
 
 - **string.py**: This script demonstrates basic string operations in Python, including string creation, indexings, and iteration.
 
+- **opsOnString.pu**: This script demonstrates basic string operations in Python, including string slicing and indexing.
 
+-**stringMethod.py**: This script demonstrates various string methods in Python, including string manipulation, formatting, and checking properties of strings.
 
 ## Contributing
 
