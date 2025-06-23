@@ -29,21 +29,21 @@ Python1To100/
 
 This section provides detailed descriptions for each Python script in the repository. Each file focuses on a specific topic or exercise, making it easy to find examples relevant to your learning goals.
 
-- **Print.py**: This script demonstrates basic `print()` functionalities in Python, including printing strings, numbers, and expressions.  
+[Print.py](https://github.com/Scorpion-1410/Python1To100/blob/main/Print.py): This script demonstrates basic `print()` functionalities in Python, including printing strings, numbers, and expressions.  
 
-- **Comments_Escape.py**: This script demonstrates various print functionalities in Python, including escape sequences, formatting, and file output with used shortcuts for comments and selections.
+[Comments_Escape.py](https://github.com/Scorpion-1410/Python1To100/blob/main/Comments_Escape.py): This script demonstrates various print functionalities in Python, including escape sequences, formatting, and file output with used shortcuts for comments and selections.
 
-- **variable_datatype.py**: This script demonstrates the different data types in Python, including integers, floats, complex numbers, strings, booleans, NoneType, lists, tuples, sets, dictionaries, bytearrays, bytes, memoryviews, ranges, and frozensets. 
+[variable_datatype.py](https://github.com/Scorpion-1410/Python1To100/blob/main/variable_datatype.py): This script demonstrates the different data types in Python, including integers, floats, complex numbers, strings, booleans, NoneType, lists, tuples, sets, dictionaries, bytearrays, bytes, memoryviews, ranges, and frozensets. 
 
-- **calculator.py**: This script demonstrates basic arithmetic operations in Python, including addition, subtraction, multiplication, division, floor division, modulus, and exponentiation.
+[calculator.py](https://github.com/Scorpion-1410/Python1To100/blob/main/calculator): This script demonstrates basic arithmetic operations in Python, including addition, subtraction, multiplication, division, floor division, modulus, and exponentiation.
 
-- **typeCastin.py**: This script demonstrates type casting in Python, including implicit and explicit type casting. 
+[typeCastin.py](https://github.com/Scorpion-1410/Python1To100/blob/main/typeCastin.py): This script demonstrates type casting in Python, including implicit and explicit type casting. 
 
-- **userInput.py**: This script demonstrates how to take user input in Python and perform operations on it. 
+[userInput.py](https://github.com/Scorpion-1410/Python1To100/blob/main/userInput.py): This script demonstrates how to take user input in Python and perform operations on it. 
 
-- **string.py**: This script demonstrates basic string operations in Python, including string creation, indexings, and iteration.
+[string.py](https://github.com/Scorpion-1410/Python1To100/blob/main/string.py): This script demonstrates basic string operations in Python, including string creation, indexings, and iteration.
 
-- **opsOnString.py**: This script demonstrates basic string operations in Python, including string slicing and indexing.
+[opsOnString.py](https://github.com/Scorpion-1410/Python1To100/blob/main/opsOnString.py): This script demonstrates basic string operations in Python, including string slicing and indexing.
 
 [stringMethod.py](https://github.com/Scorpion-1410/Python1To100/blob/main/stringMethod.py): This script demonstrates various string methods in Python, including string manipulation, formatting, and checking properties of strings.
 
