@@ -35,7 +35,7 @@ This section provides detailed descriptions for each Python script in the reposi
 
 [variable_datatype.py](https://github.com/Scorpion-1410/Python1To100/blob/main/variable_datatype.py): This script demonstrates the different data types in Python, including integers, floats, complex numbers, strings, booleans, NoneType, lists, tuples, sets, dictionaries, bytearrays, bytes, memoryviews, ranges, and frozensets. 
 
-[calculator.py](https://github.com/Scorpion-1410/Python1To100/blob/main/calculator): This script demonstrates basic arithmetic operations in Python, including addition, subtraction, multiplication, division, floor division, modulus, and exponentiation.
+[calculator.py](https://github.com/Scorpion-1410/Python1To100/blob/main/calculator.py): This script demonstrates basic arithmetic operations in Python, including addition, subtraction, multiplication, division, floor division, modulus, and exponentiation.
 
 [typeCastin.py](https://github.com/Scorpion-1410/Python1To100/blob/main/typeCastin.py): This script demonstrates type casting in Python, including implicit and explicit type casting. 
 
