@@ -49,6 +49,8 @@ This section provides detailed descriptions for each Python script in the reposi
 
 [ifElse.py](https://github.com/Scorpion-1410/Python1To100/blob/main/ifElse.py): This script demonstrates the use of conditional statements in Python, including if-else statements, single-line if statements, and conditional expressions.
 
+[loop.py](https://github.com/Scorpion-1410/Python1To100/blob/main/loop.py): This script demonstrates the use of loops in Python, including while loops, for loops, and nested loops.
+
 ## Contributing
 
 Feel free to submit pull requests or open issues for improvements or corrections.
