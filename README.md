@@ -47,6 +47,8 @@ This section provides detailed descriptions for each Python script in the reposi
 
 [stringMethod.py](https://github.com/Scorpion-1410/Python1To100/blob/main/stringMethod.py): This script demonstrates various string methods in Python, including string manipulation, formatting, and checking properties of strings.
 
+[ifElse.py](https://github.com/Scorpion-1410/Python1To100/blob/main/ifElse.py): This script demonstrates the use of conditional statements in Python, including if-else statements, single-line if statements, and conditional expressions.
+
 ## Contributing
 
 Feel free to submit pull requests or open issues for improvements or corrections.
